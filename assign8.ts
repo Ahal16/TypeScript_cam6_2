@@ -11,4 +11,4 @@ const url3 = "v1";
 const url4 = "users";
 
 const fullURL = joinAndNormalizeURL(url1, url2, url3, url4);
-console.log(fullURL); // Output: "http://example.com/api/v1/users"
+console.log(fullURL); // Op: "http://example.com/api/v1/users"
